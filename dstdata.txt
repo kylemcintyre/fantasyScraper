@@ -1,0 +1,32 @@
+1 Chicago 1 5
+2 Los Angeles 1 5
+3 Baltimore 1 5
+4 Jacksonville 1 6
+5 Minnesota 4 9
+6 Houston 3 9
+7 Philadelphia 4 20
+8 Los Angeles 5 18
+9 New York 7 19
+10 Carolina 9 19
+11 Denver 6 16
+12 Seattle 3 22
+13 Tennessee 9 27
+14 Cleveland 9 22
+15 Dallas 7 30
+16 Washington 8 27
+17 Buffalo 10 29
+18 Green Bay 12 25
+19 New England 9 21
+20 Miami 16 24
+21 Pittsburgh 13 26
+22 New Orleans 15 26
+23 Arizona 17 28
+24 Cincinnati 16 30
+25 New York 18 31
+26 Detroit 23 29
+27 Kansas City 12 32
+28 Atlanta 13 31
+29 Indianapolis 11 31
+30 San Francisco 25 31
+31 Tampa Bay 27 32
+32 Oakland 26 32
